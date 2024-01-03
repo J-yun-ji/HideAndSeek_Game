@@ -58,7 +58,7 @@
 
 <h2 id="개발_환경">📌 개발 환경 </h2>
 
-* IDE : **eclipse**
+* IDE : **Eclipse**
 * Language : **Java**
 
 
