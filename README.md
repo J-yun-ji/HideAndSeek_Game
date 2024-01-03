@@ -1,3 +1,4 @@
+<br>
 <h1 align="center">'뚱이' 잡기 게임</h1>
 <p align="center">
   <strong>2021-1학기 자바 프로그래밍 텀 프로젝트</strong>
@@ -45,7 +46,8 @@
 
 
 ### 개발 환경
-* IDE : eclipse
+* IDE : **eclipse**
+* Language : **Java**
 
 <br>
 
