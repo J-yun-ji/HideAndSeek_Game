@@ -3,6 +3,9 @@
 <p align="center">
   <strong>2021-1학기 자바 프로그래밍 텀 프로젝트</strong>
 <br>
+
+
+<br>
 <br>
  
 </p>
@@ -12,7 +15,8 @@
 
 ## 🖇️ 목차
 1. [프로젝트 소개](#프로젝트_소개)
-2. [실행 결과](#실행_결과) 
+2. [개발 환경](#개발_환경)
+3. [실행 결과](#실행_결과) 
 
 <br>
 <br>
@@ -29,8 +33,10 @@
 
 <div align=center>
 
-<보글보글 스폰지밥> 만화영화에 나오는 캐릭터인 스폰지밥(SpongeBob)이 **'뚱이(Patrick)'를 잡는** 게임
+<보글보글 스폰지밥> 만화영화에 나오는 캐릭터인<br>스폰지밥(SpongeBob)이 **'뚱이(Patrick)'를 잡는** 게임
 
+<br>
+<img src='https://github.com/J-yun-ji/patrick-catching-game/assets/66745172/3daa9d9a-b02b-4a25-aa09-b27a3b7c5efc' width="400px">
 </div>
 
 <br>
@@ -44,15 +50,16 @@
 
 <br>
 
-
-### 개발 환경
-* IDE : **eclipse**
-* Language : **Java**
-
-<br>
-
 ### 기간
  * 2021.06.01 ~ 2021.06.12
+
+<br>
+<br>
+
+<h2 id="개발_환경">📌 개발 환경 </h2>
+
+* IDE : **eclipse**
+* Language : **Java**
 
 
 <br>
@@ -61,4 +68,4 @@
 
 <h2 id="실행_결과">📌 실행 결과</h2> 
 
-![뚱이잡기-min](https://github.com/J-yun-ji/patrick-catching-game/assets/66745172/697da477-0247-4ab5-8fe8-286aca80c1f1)
+<img src='https://github.com/J-yun-ji/patrick-catching-game/assets/66745172/697da477-0247-4ab5-8fe8-286aca80c1f1' width="800px">
